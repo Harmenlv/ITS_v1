@@ -24,7 +24,7 @@
 
    then click the link to enter the webpage(http://localhost:8080), no need to enter http://localhost:3000 
 
-   **please note we need two terminal to run `node ./server.mjs` and `http-server -a localhost` in the same time, and for `node ./server.mjs` will need near 2 minutes to load the model, we can start to input untill the terminal shows 'Server is running on http://localhost:3000', just as the following image:**
+   **please note we need two terminal to run `node ./server.mjs` and `http-server -a localhost` (may be need run as administrator) in the same time, and for `node ./server.mjs` will need near 2 minutes to load the model, we can start to input untill the terminal shows 'Server is running on http://localhost:3000', just as the following image:**
 
    ![](./img/start.jpg)
 
