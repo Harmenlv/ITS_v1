@@ -4,6 +4,7 @@
 
    Be [here](https://nodejs.org/en/download/current) to visit the official website to install the latest version
 
+
 2. clone code and install the dependencies
 
    `git clone https://github.com/Harmenlv/ITS_v1.git`
@@ -33,3 +34,7 @@
 ### outcome
 
 ![](./img/outcome.jpg)
+
+### reference
+1. [transformers.js](https://github.com/xenova/transformers.js)
+2. [nodesource/distribution](https://github.com/nodesource/distributions?tab=readme-ov-file#ubuntu-versions)
