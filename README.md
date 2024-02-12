@@ -6,7 +6,7 @@
 
 2. clone code and install the dependencies
 
-   `https://github.com/Harmenlv/ITS_v1.git`
+   `git clone https://github.com/Harmenlv/ITS_v1.git`
 
    `cd ITS_v1`
 
