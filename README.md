@@ -4,7 +4,11 @@
 
    Be [here](https://nodejs.org/en/download/current) to visit the official website to install the latest version
 
-2. install the dependencies
+2. clone code and install the dependencies
+
+   `https://github.com/Harmenlv/ITS_v1.git`
+
+   `cd ITS_v1`
 
    `npm i @xenova/transformers`
 
@@ -12,11 +16,7 @@
 
    `npm install http-server`
 
-3. clone code and run
-
-   `https://github.com/Harmenlv/ITS_v1.git`
-
-   `cd ITS_v1`
+3. run
 
    `node ./server.mjs`
 
