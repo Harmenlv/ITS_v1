@@ -24,10 +24,10 @@
 
    please note we need two terminal to run `node ./server.mjs` and `http-server -a localhost` in the same time, and for `node ./server.mjs` will need near 2 minutes to load the model, we can start to input untill the terminal shows 'Server is running on http://localhost:3000', just as the following image:
 
-   ![](.\img\start.jpg)
+   ![](./img/start.jpg)
 
    
 
 ### outcome
 
-![](.\img\outcome.jpg)
+![](./img/outcome.jpg)
